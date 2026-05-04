@@ -24,6 +24,9 @@ It calculates important electrical parameters and detects anomalies in the wavef
 - Generates a report file (`results.txt`)
 
 ---
+You can view the full project and commit history here:
+👉https://github.com/Subash-Simon/coursework.git
+
 
 ## 📁 Files Included
 - `main.c` → Main program logic
@@ -41,3 +44,10 @@ It calculates important electrical parameters and detects anomalies in the wavef
 ```bash
 cc main.c waveform.c io.c -o minicoursework -lm
 ./minicoursework power_quality_log.csv
+```
+## References
+
+* UWE Coursework Brief (Programming for Engineers)
+* AC Waveforms and 3-Phase Power Reference Material  
+* C Standard Library Documentation (stdio.h, stdlib.h, math.h)
+* https://en.cppreference.com/
