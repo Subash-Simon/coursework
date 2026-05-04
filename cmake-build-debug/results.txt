@@ -1,0 +1,60 @@
+Power Quality Waveform Analyser Report
+======================================
+
+Input file: power_quality_log.csv
+Samples analysed: 1000
+
+Voltage phase analysis
+----------------------
+Phase A
+  RMS: 229.810 V
+  Min: -325.000 V
+  Max: 325.000 V
+  Peak-to-peak: 650.000 V
+  DC offset: -0.000000 V
+  Std dev: 229.810 V
+  Clipped: 20
+  Compliance: COMPLIANT
+
+Phase B
+  RMS: 229.810 V
+  Min: -324.929 V
+  Max: 324.929 V
+  Peak-to-peak: 649.857 V
+  DC offset: 0.000000 V
+  Std dev: 229.810 V
+  Clipped: 20
+  Compliance: COMPLIANT
+
+Phase C
+  RMS: 229.810 V
+  Min: -324.929 V
+  Max: 324.929 V
+  Peak-to-peak: 649.857 V
+  DC offset: -0.000000 V
+  Std dev: 229.810 V
+  Clipped: 20
+  Compliance: COMPLIANT
+
+Other measured fields
+---------------------
+Line current
+  Min: 2.500000
+  Max: 3.500000
+  Mean: 3.000000
+
+Frequency
+  Min: 50.000000
+  Max: 50.047533
+  Mean: 50.027470
+
+Power factor
+  Min: 0.950000
+  Max: 0.961746
+  Mean: 0.956073
+
+THD percent
+  Min: 2.000000
+  Max: 2.183887
+  Mean: 2.093045
+

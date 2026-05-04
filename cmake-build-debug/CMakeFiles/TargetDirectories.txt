@@ -1,0 +1,3 @@
+/Users/subashpun/Desktop/Uwe_ subash/coursework/cmake-build-debug/CMakeFiles/minicoursework.dir
+/Users/subashpun/Desktop/Uwe_ subash/coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/subashpun/Desktop/Uwe_ subash/coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

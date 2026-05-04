@@ -1,0 +1,8 @@
+# ninja log v6
+2	77	1777881769098154870	CMakeFiles/minicoursework.dir/main.c.o	999b73eeaac42f53
+3	78	1777881769099030656	CMakeFiles/minicoursework.dir/io.c.o	5fdeef098f04a4be
+3	79	1777881769098852449	CMakeFiles/minicoursework.dir/waveform.c.o	c3bfe51805c2253d
+79	184	1777881769175243108	minicoursework	6ee8abf68ee37769
+3	222	1777898298915114816	CMakeFiles/minicoursework.dir/main.c.o	999b73eeaac42f53
+5	223	1777898298917037813	CMakeFiles/minicoursework.dir/io.c.o	5fdeef098f04a4be
+223	371	1777898299134651471	minicoursework	6ee8abf68ee37769
