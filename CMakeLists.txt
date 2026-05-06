@@ -8,7 +8,5 @@ add_executable(minicoursework
         main.c
         waveform.c
         waveform.h
-        io.h
-        io.c
         io.c
         io.h)
